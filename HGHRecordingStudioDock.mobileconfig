@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist
+  PUBLIC '-//Apple//DTD PLIST 1.0//EN'
+  'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist version="1.0">
+	<dict>
+		<key>PayloadIdentifier</key>
+		<string>edu.sjsu.cha.dock.hgh.recording.53671D2A-E7BD-43B2-A258-3B1425DA0846.alacarte</string>
+		<key>PayloadRemovalDisallowed</key>
+		<true/>
+		<key>PayloadScope</key>
+		<string>System</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>53671D2A-E7BD-43B2-A258-3B1425DA0846</string>
+		<key>PayloadOrganization</key>
+		<string>San Jose State University</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>PayloadDisplayName</key>
+		<string>Settings for the Dock</string>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>PayloadType</key>
+				<string>com.apple.dock</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>PayloadIdentifier</key>
+				<string>edu.sjsu.cha.dock.hgh.recording.53671D2A-E7BD-43B2-A258-3B1425DA0846.alacarte.dock.9A87A285-42CD-4F62-B9B3-3F243F7E8625</string>
+				<key>PayloadEnabled</key>
+				<true/>
+				<key>PayloadUUID</key>
+				<string>9A87A285-42CD-4F62-B9B3-3F243F7E8625</string>
+				<key>PayloadDisplayName</key>
+				<string>Dock</string>
+				<key>static-apps</key>
+				<array>
+					<dict>
+						<key>mcx_typehint</key>
+						<integer>1</integer>
+						<key>tile-type</key>
+						<string>file-tile</string>
+						<key>tile-data</key>
+						<dict>
+							<key>file-label</key>
+							<string>Logic Pro</string>
+							<key>file-data</key>
+							<dict>
+								<key>_CFURLString</key>
+								<string>/Applications/Logic Pro.app</string>
+								<key>_CFURLStringType</key>
+								<integer>0</integer>
+							</dict>
+						</dict>
+					</dict>
+					<dict>
+						<key>mcx_typehint</key>
+						<integer>1</integer>
+						<key>tile-type</key>
+						<string>file-tile</string>
+						<key>tile-data</key>
+						<dict>
+							<key>file-label</key>
+							<string>Pro Tools</string>
+							<key>file-data</key>
+							<dict>
+								<key>_CFURLString</key>
+								<string>/Applications/Pro Tools.app</string>
+								<key>_CFURLStringType</key>
+								<integer>0</integer>
+							</dict>
+						</dict>
+					</dict>
+				</array>
+				<key>static-others</key>
+				<array>
+					<dict>
+						<key>mcx_typehint</key>
+						<integer>2</integer>
+						<key>tile-type</key>
+						<string>directory-tile</string>
+						<key>tile-data</key>
+						<dict>
+							<key>displayas</key>
+							<integer>1</integer>
+							<key>showas</key>
+							<integer>3</integer>
+							<key>file-label</key>
+							<string>Applications</string>
+							<key>file-data</key>
+							<dict>
+								<key>_CFURLString</key>
+								<string>/Applications</string>
+								<key>_CFURLStringType</key>
+								<integer>0</integer>
+							</dict>
+							<key>file-type</key>
+							<integer>2</integer>
+						</dict>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+</plist>

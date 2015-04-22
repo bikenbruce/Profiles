@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist
+  PUBLIC '-//Apple//DTD PLIST 1.0//EN'
+  'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist version="1.0">
+	<dict>
+		<key>PayloadIdentifier</key>
+		<string>edu.sjsu.cha.dock.redfolder.9B4A26BE-036A-4E28-9689-FD32F7CEE9D0.alacarte</string>
+		<key>PayloadRemovalDisallowed</key>
+		<true/>
+		<key>PayloadScope</key>
+		<string>System</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>9B4A26BE-036A-4E28-9689-FD32F7CEE9D0</string>
+		<key>PayloadOrganization</key>
+		<string>San Jose State University</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>PayloadDisplayName</key>
+		<string>Settings for Managing the Dock</string>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>PayloadType</key>
+				<string>com.apple.dock</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>PayloadIdentifier</key>
+				<string>edu.sjsu.cha.dock.redfolder.9B4A26BE-036A-4E28-9689-FD32F7CEE9D0.alacarte.dock.AFCE93BD-9765-4BE0-A6E3-8CB85CAB4EF6</string>
+				<key>PayloadEnabled</key>
+				<true/>
+				<key>PayloadUUID</key>
+				<string>AFCE93BD-9765-4BE0-A6E3-8CB85CAB4EF6</string>
+				<key>PayloadDisplayName</key>
+				<string>Dock</string>
+				<key>static-apps</key>
+				<array>
+				</array>
+				<key>static-others</key>
+				<array>
+					<dict>
+						<key>mcx_typehint</key>
+						<integer>2</integer>
+						<key>tile-type</key>
+						<string>directory-tile</string>
+						<key>tile-data</key>
+						<dict>
+							<key>displayas</key>
+							<integer>1</integer>
+							<key>showas</key>
+							<integer>3</integer>
+							<key>file-label</key>
+							<string>Red Folder</string>
+							<key>file-data</key>
+							<dict>
+								<key>_CFURLString</key>
+								<string>/Users/Shared/RedFolder</string>
+								<key>_CFURLStringType</key>
+								<integer>0</integer>
+							</dict>
+							<key>file-type</key>
+							<integer>2</integer>
+						</dict>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+</plist>
